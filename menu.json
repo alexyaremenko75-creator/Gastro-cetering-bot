@@ -1,0 +1,98 @@
+[
+  {
+    "id": "camembert",
+    "category": "Welcome",
+    "name": "Камамбер із запеченим ананасом",
+    "weight": "25 г",
+    "price": 75,
+    "active": true
+  },
+  {
+    "id": "tartlets",
+    "category": "Welcome",
+    "name": "Тарталетки з в’яленими томатами, м’яким сиром і песто",
+    "weight": "35 г",
+    "price": 75,
+    "active": true
+  },
+  {
+    "id": "caprese",
+    "category": "Welcome",
+    "name": "Мінікапрезе (черрі, бебі моцарела, базилік)",
+    "weight": "30 г",
+    "price": 80,
+    "active": true
+  },
+  {
+    "id": "pork",
+    "category": "BBQ",
+    "name": "Шашлик зі свинини (ошийок)",
+    "weight": "100 г",
+    "price": 140,
+    "active": true
+  },
+  {
+    "id": "chicken",
+    "category": "BBQ",
+    "name": "Шашлик курячий (філе стегна)",
+    "weight": "100 г",
+    "price": 130,
+    "active": true
+  },
+  {
+    "id": "salmon",
+    "category": "BBQ",
+    "name": "Лосось гриль",
+    "weight": "100 г",
+    "price": 250,
+    "active": true
+  },
+  {
+    "id": "grillveg",
+    "category": "BBQ",
+    "name": "Овочі гриль (цукіні, баклажан, печериці, перець, картопля)",
+    "weight": "100 г",
+    "price": 150,
+    "active": true
+  },
+  {
+    "id": "freshveg",
+    "category": "BBQ",
+    "name": "Асорті свіжих овочів та зелені",
+    "weight": "300 г",
+    "price": 360,
+    "active": true
+  },
+  {
+    "id": "lavashcheese",
+    "category": "BBQ",
+    "name": "Лаваш із сиром і зеленню на грилі",
+    "weight": "150 г",
+    "price": 120,
+    "active": true
+  },
+  {
+    "id": "sauces",
+    "category": "BBQ",
+    "name": "Асорті соусів до м’яса та риби",
+    "weight": "100 г",
+    "price": 50,
+    "active": true
+  },
+  {
+    "id": "bread",
+    "category": "BBQ",
+    "name": "Хлібний кошик (лаваш, чіабата)",
+    "weight": "100 г",
+    "price": 15,
+    "active": true
+  },
+  {
+    "id": "fruit",
+    "category": "Десерти / фрукти",
+    "name": "Фруктова шпажка (сезонні фрукти)",
+    "weight": "50 г",
+    "price": 70,
+    "active": true
+  }
+]
